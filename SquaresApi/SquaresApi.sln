@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1706.2
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresApi", "SquaresApi\SquaresApi.csproj", "{B0BFA90D-4D38-4989-B570-610165993E56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SquaresApi.Tests", "SquaresApi.Tests\SquaresApi.Tests.csproj", "{6735BF1F-04A5-43B7-9923-34FEA7B2DFAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B0BFA90D-4D38-4989-B570-610165993E56}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0BFA90D-4D38-4989-B570-610165993E56}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0BFA90D-4D38-4989-B570-610165993E56}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0BFA90D-4D38-4989-B570-610165993E56}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6735BF1F-04A5-43B7-9923-34FEA7B2DFAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6735BF1F-04A5-43B7-9923-34FEA7B2DFAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6735BF1F-04A5-43B7-9923-34FEA7B2DFAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6735BF1F-04A5-43B7-9923-34FEA7B2DFAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80345E6C-B647-49A9-8D7F-2F574963BE93}
+	EndGlobalSection
+EndGlobal

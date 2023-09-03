@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{B0BFA90D-4D38-4989-B570-610165993E56}|https">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SquaresApi.Tests/ServicesTests/SquaresApiTests.cs">
+    <Files>
+      <File FileName="SquaresApi/Services/SquaresService.cs" Line="16" Column="42" />
+      <File FileName="SquaresApi/Controllers/SquaresController.cs" />
+      <File FileName="SquaresApi.Tests/ServicesTests/SquaresApiTests.cs" Line="7" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SquaresApi" expanded="True" selected="True">
+            <Node name="SquaresApi" expanded="True">
+              <Node name="Services" expanded="True" />
+            </Node>
+            <Node name="SquaresApi.Tests" expanded="True">
+              <Node name="ServicesTests" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="SquaresApi">
+            <Node name="SquaresApi.Tests" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SquaresApi PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
